@@ -5,7 +5,7 @@ export default function Rodape() {
     return (
         <footer className={styles.rodape}>
             <p>
-                Projeto desenvolvido por Dimi Endrix Martins Miranda como requisito para a conclusão do curso Next.js & React da Cod3r.
+                Produzido no Colégio Estadual Miguel Dias pela Manu 🤪💓
             </p>
             <RedesSociais></RedesSociais>
         </footer>
