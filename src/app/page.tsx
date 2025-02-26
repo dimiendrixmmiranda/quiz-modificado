@@ -51,7 +51,7 @@ export default function Home() {
 				<Image alt="Logo" src="/quiz.png" width={300} height={200} />
 				<div className="flex flex-col gap-3 justify-items-center items-center">
 					<h2 className="text-xl font-black md:text-2xl" style={{ textShadow: '1px 1px 2px black' }}>
-						Selecione uma das categorias:
+						Selecione uma categoria:
 					</h2>
 					<ul className="flex flex-col gap-2 md:grid md:grid-cols-2 md:gap-x-4">
 						{listaDeCategorias.map((categoria) => (
